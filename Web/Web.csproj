@@ -1,0 +1,105 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ClientApp\Components\Account\**" />
+    <Compile Remove="ClientApp\Components\Catalog\**" />
+    <Compile Remove="ClientApp\Components\Deal\**" />
+    <Compile Remove="ClientApp\Components\Views\NewFolder1\**" />
+    <Compile Remove="ClientApp\Components\Views\NewFolder\**" />
+    <Compile Remove="ClientApp\Containers\**" />
+    <Content Remove="ClientApp\Components\Account\**" />
+    <Content Remove="ClientApp\Components\Catalog\**" />
+    <Content Remove="ClientApp\Components\Deal\**" />
+    <Content Remove="ClientApp\Components\Views\NewFolder1\**" />
+    <Content Remove="ClientApp\Components\Views\NewFolder\**" />
+    <Content Remove="ClientApp\Containers\**" />
+    <EmbeddedResource Remove="ClientApp\Components\Account\**" />
+    <EmbeddedResource Remove="ClientApp\Components\Catalog\**" />
+    <EmbeddedResource Remove="ClientApp\Components\Deal\**" />
+    <EmbeddedResource Remove="ClientApp\Components\Views\NewFolder1\**" />
+    <EmbeddedResource Remove="ClientApp\Components\Views\NewFolder\**" />
+    <EmbeddedResource Remove="ClientApp\Containers\**" />
+    <None Remove="ClientApp\Components\Account\**" />
+    <None Remove="ClientApp\Components\Catalog\**" />
+    <None Remove="ClientApp\Components\Deal\**" />
+    <None Remove="ClientApp\Components\Views\NewFolder1\**" />
+    <None Remove="ClientApp\Components\Views\NewFolder\**" />
+    <None Remove="ClientApp\Containers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="ClientApp\Actions\index.js" />
+    <None Remove="ClientApp\Components\App.js" />
+    <None Remove="ClientApp\Components\AppFooter.js" />
+    <None Remove="ClientApp\Components\AppHeader.js" />
+    <None Remove="ClientApp\Components\Views\About.js" />
+    <None Remove="ClientApp\Components\Views\Buy.js" />
+    <None Remove="ClientApp\Components\Views\Contacts.js" />
+    <None Remove="ClientApp\Components\Views\Home.js" />
+    <None Remove="ClientApp\Components\Views\Terms.js" />
+    <None Remove="ClientApp\Reducers\index.js" />
+    <None Remove="ClientApp\Style\style.css" />
+    <None Remove="ClientApp\Style\Style.js" />
+    <None Remove="ClientApp\Test\components\app_test.js" />
+    <None Remove="ClientApp\Test\test_helper.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="ClientApp\Actions\index.js" />
+    <Content Include="ClientApp\Components\App.js" />
+    <Content Include="ClientApp\Components\AppFooter.js" />
+    <Content Include="ClientApp\Components\AppHeader.js" />
+    <Content Include="ClientApp\Components\Views\About.js" />
+    <Content Include="ClientApp\Components\Views\Buy.js" />
+    <Content Include="ClientApp\Components\Views\Contacts.js" />
+    <Content Include="ClientApp\Components\Views\Home.js" />
+    <Content Include="ClientApp\Components\Views\Sell.js" />
+    <Content Include="ClientApp\Components\Views\Terms.js" />
+    <Content Include="ClientApp\index.js" />
+    <Content Include="ClientApp\Reducers\index.js" />
+    <Content Include="ClientApp\Style\style.css" />
+    <Content Include="ClientApp\Test\components\app_test.js" />
+    <Content Include="ClientApp\Test\test_helper.js" />
+    <Content Include="webpack.config.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="3.2.0" />
+    <PackageReference Include="MediatR" Version="3.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.0" />
+    <PackageReference Include="Mime" Version="3.0.0" />
+    <PackageReference Include="Scrutor" Version="2.1.2" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ClientApp\Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj" />
+    <ProjectReference Include="..\Contracts\Contracts.csproj" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+﻿You need a post data "RememberMe","Email","Password" in json format with heder "Content-Type":"application/json"
+true
+grandjulivan@gmail.com
+Ex@ct1234
+
+
+Only for testing
+After that you need to send get request with header "Authorization" : "Bearer " + "Token from previous request"
+to the "/TestAuth" root route and you get content back { Result : "Success"}.

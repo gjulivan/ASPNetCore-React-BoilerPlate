@@ -1,0 +1,40 @@
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Web.dll
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Web.pdb
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Business.dll
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Contracts.dll
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Domain.dll
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Infrastructure.dll
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Business.pdb
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Contracts.pdb
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Domain.pdb
+D:\projects\hokkoiodev\HW\Web\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+D:\projects\hokkoiodev\HW\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+D:\projects\hokkoiodev\HW\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+D:\projects\hokkoiodev\HW\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+D:\projects\hokkoiodev\HW\Web\obj\Debug\netcoreapp2.0\Web.dll
+D:\projects\hokkoiodev\HW\Web\obj\Debug\netcoreapp2.0\Web.pdb
+D:\projects\hokkoiodev\HW\Web\obj\Debug\netcoreapp2.0\Web.csprojAssemblyReference.cache
+D:\projects\hokkoiodev\HW\Web\obj\Debug\netcoreapp2.0\Web.csproj.CopyComplete
+D:\projects\ASP.net core setup\HW\Web\obj\Debug\netcoreapp2.0\Web.csprojAssemblyReference.cache
+D:\projects\ASP.net core setup\HW\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+D:\projects\ASP.net core setup\HW\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+D:\projects\ASP.net core setup\HW\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+D:\projects\ASP.net core setup\HW\Web\obj\Debug\netcoreapp2.0\Web.dll
+D:\projects\ASP.net core setup\HW\Web\obj\Debug\netcoreapp2.0\Web.pdb
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Web.dll
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Web.pdb
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Business.dll
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Contracts.dll
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Domain.dll
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Infrastructure.dll
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Business.pdb
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Contracts.pdb
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Domain.pdb
+D:\projects\ASP.net core setup\HW\Web\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+D:\projects\ASP.net core setup\HW\Web\obj\Debug\netcoreapp2.0\Web.csproj.CopyComplete
