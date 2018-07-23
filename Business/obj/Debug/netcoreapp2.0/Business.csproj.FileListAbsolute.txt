@@ -1,0 +1,32 @@
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Business.dll
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Business.pdb
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Contracts.dll
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Domain.dll
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Infrastructure.dll
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Contracts.pdb
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Domain.pdb
+D:\projects\hokkoiodev\HW\Business\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+D:\projects\hokkoiodev\HW\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+D:\projects\hokkoiodev\HW\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+D:\projects\hokkoiodev\HW\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+D:\projects\hokkoiodev\HW\Business\obj\Debug\netcoreapp2.0\Business.dll
+D:\projects\hokkoiodev\HW\Business\obj\Debug\netcoreapp2.0\Business.pdb
+D:\projects\hokkoiodev\HW\Business\obj\Debug\netcoreapp2.0\Business.csprojAssemblyReference.cache
+D:\projects\hokkoiodev\HW\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Business.dll
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Business.pdb
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Contracts.dll
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Domain.dll
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Infrastructure.dll
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Contracts.pdb
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Domain.pdb
+D:\projects\ASP.net core setup\HW\Business\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+D:\projects\ASP.net core setup\HW\Business\obj\Debug\netcoreapp2.0\Business.csprojAssemblyReference.cache
+D:\projects\ASP.net core setup\HW\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+D:\projects\ASP.net core setup\HW\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+D:\projects\ASP.net core setup\HW\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+D:\projects\ASP.net core setup\HW\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+D:\projects\ASP.net core setup\HW\Business\obj\Debug\netcoreapp2.0\Business.dll
+D:\projects\ASP.net core setup\HW\Business\obj\Debug\netcoreapp2.0\Business.pdb

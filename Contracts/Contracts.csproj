@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\**" />
+    <Compile Remove="Repositories\**" />
+    <EmbeddedResource Remove="Migrations\**" />
+    <EmbeddedResource Remove="Repositories\**" />
+    <None Remove="Migrations\**" />
+    <None Remove="Repositories\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="IProductRepository.cs" />
+    <Compile Remove="IRepository.cs" />
+    <Compile Remove="IUserRepository.cs" />
+    <Compile Remove="ProductRepository.cs" />
+    <Compile Remove="UserRepository.cs" />
+  </ItemGroup>
+
+</Project>

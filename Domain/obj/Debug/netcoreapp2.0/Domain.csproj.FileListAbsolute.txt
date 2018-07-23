@@ -1,0 +1,17 @@
+D:\projects\hokkoiodev\HW\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+D:\projects\hokkoiodev\HW\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+D:\projects\hokkoiodev\HW\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+D:\projects\hokkoiodev\HW\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+D:\projects\hokkoiodev\HW\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+D:\projects\hokkoiodev\HW\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+D:\projects\hokkoiodev\HW\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+D:\projects\hokkoiodev\HW\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+D:\projects\hokkoiodev\HW\Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+D:\projects\ASP.net core setup\HW\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+D:\projects\ASP.net core setup\HW\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+D:\projects\ASP.net core setup\HW\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+D:\projects\ASP.net core setup\HW\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+D:\projects\ASP.net core setup\HW\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+D:\projects\ASP.net core setup\HW\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+D:\projects\ASP.net core setup\HW\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+D:\projects\ASP.net core setup\HW\Domain\bin\Debug\netcoreapp2.0\Domain.pdb

@@ -1,0 +1,20 @@
+HOME RIMSKAYA C:\Aspnet\hashworld\HW\packages\FluentMigrator.1.6.2\tools\migrate.exe -c "Data Source=PAVEL4C7B;Initial Catalog=HokkoDb;Persist security info=True;Integrated Security=SSPI" -db sqlserver2014 -a C:\Aspnet\hashworld\HW\Infrastructure\bin\Debug\Infrastructure.dll
+WORK PRESNYA C:\GIT\hw\hashworldapp\HW\packages\FluentMigrator.1.6.2\tools\migrate.exe -c "Data Source=.\SQLEXPRESS;Initial Catalog=HokkoDb;Persist security info=True;Integrated Security=SSPI" -db sqlserver2014 -a C:\GIT\hw\hashworldapp\HW\Infrastructure\bin\Debug\Infrastructure.dll
+
+:migrate
+migrate -db SqlServer2014 -connection "Server=[YOUR CONNECTTION STRING]" -assembly "[YOUR MIGRATION ASSEMBLY]"
+
+
+:rollback
+migrate -db SqlServer2014 -connection "Server=[YOUR CONNECTTION STRING]" -assembly "[YOUR MIGRATION ASSEMBLY]" -task rollback:all
+
+
+:version
+migrate -db SqlServer2014 -version "%2" -connection "Server=[YOUR CONNECTTION STRING]" -assembly "[YOUR MIGRATION ASSEMBLY]"
+
+
+:down
+migrate -db SqlServer2014 -version %2 -connection "Server=[YOUR CONNECTTION STRING]" -assembly "[YOUR MIGRATION ASSEMBLY]" -task rollback:toversion
+
+
+C:\Aspnet\hashworld\HW\packages\FluentMigrator.1.6.2\tools\migrate.exe -c "Data Source=PAVEL4C7B;Initial Catalog=HokkoDb;Persist security info=True;Integrated Security=SSPI" -db sqlserver2014 -a C:\Aspnet\hashworld\HW\Infrastructure\bin\Debug\Infrastructure.dll -task rollback:201712051017
