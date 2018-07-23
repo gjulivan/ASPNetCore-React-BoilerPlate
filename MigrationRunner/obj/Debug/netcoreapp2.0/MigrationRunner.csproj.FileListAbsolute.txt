@@ -1,0 +1,14 @@
+D:\projects\ASP.net core setup\HW\MigrationRunner\bin\Debug\netcoreapp2.0\MigrationRunner.deps.json
+D:\projects\ASP.net core setup\HW\MigrationRunner\bin\Debug\netcoreapp2.0\MigrationRunner.runtimeconfig.json
+D:\projects\ASP.net core setup\HW\MigrationRunner\bin\Debug\netcoreapp2.0\MigrationRunner.runtimeconfig.dev.json
+D:\projects\ASP.net core setup\HW\MigrationRunner\bin\Debug\netcoreapp2.0\MigrationRunner.dll
+D:\projects\ASP.net core setup\HW\MigrationRunner\bin\Debug\netcoreapp2.0\MigrationRunner.pdb
+D:\projects\ASP.net core setup\HW\MigrationRunner\bin\Debug\netcoreapp2.0\Migrations.Sql.dll
+D:\projects\ASP.net core setup\HW\MigrationRunner\bin\Debug\netcoreapp2.0\Migrations.Sql.pdb
+D:\projects\ASP.net core setup\HW\MigrationRunner\obj\Debug\netcoreapp2.0\MigrationRunner.csprojAssemblyReference.cache
+D:\projects\ASP.net core setup\HW\MigrationRunner\obj\Debug\netcoreapp2.0\MigrationRunner.csproj.CoreCompileInputs.cache
+D:\projects\ASP.net core setup\HW\MigrationRunner\obj\Debug\netcoreapp2.0\MigrationRunner.AssemblyInfoInputs.cache
+D:\projects\ASP.net core setup\HW\MigrationRunner\obj\Debug\netcoreapp2.0\MigrationRunner.AssemblyInfo.cs
+D:\projects\ASP.net core setup\HW\MigrationRunner\obj\Debug\netcoreapp2.0\MigrationRunner.csproj.CopyComplete
+D:\projects\ASP.net core setup\HW\MigrationRunner\obj\Debug\netcoreapp2.0\MigrationRunner.dll
+D:\projects\ASP.net core setup\HW\MigrationRunner\obj\Debug\netcoreapp2.0\MigrationRunner.pdb

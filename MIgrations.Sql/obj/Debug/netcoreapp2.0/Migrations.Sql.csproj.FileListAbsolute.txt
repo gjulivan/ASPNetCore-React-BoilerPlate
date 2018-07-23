@@ -1,0 +1,8 @@
+D:\projects\ASP.net core setup\HW\MIgrations.Sql\bin\Debug\netcoreapp2.0\Migrations.Sql.deps.json
+D:\projects\ASP.net core setup\HW\MIgrations.Sql\bin\Debug\netcoreapp2.0\Migrations.Sql.dll
+D:\projects\ASP.net core setup\HW\MIgrations.Sql\bin\Debug\netcoreapp2.0\Migrations.Sql.pdb
+D:\projects\ASP.net core setup\HW\MIgrations.Sql\obj\Debug\netcoreapp2.0\Migrations.Sql.csproj.CoreCompileInputs.cache
+D:\projects\ASP.net core setup\HW\MIgrations.Sql\obj\Debug\netcoreapp2.0\Migrations.Sql.AssemblyInfoInputs.cache
+D:\projects\ASP.net core setup\HW\MIgrations.Sql\obj\Debug\netcoreapp2.0\Migrations.Sql.AssemblyInfo.cs
+D:\projects\ASP.net core setup\HW\MIgrations.Sql\obj\Debug\netcoreapp2.0\Migrations.Sql.dll
+D:\projects\ASP.net core setup\HW\MIgrations.Sql\obj\Debug\netcoreapp2.0\Migrations.Sql.pdb
