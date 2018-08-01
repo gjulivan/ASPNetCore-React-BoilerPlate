@@ -15,3 +15,7 @@ Infrastructure/bin/
 MigrationRunner/obj/
 MIgrations.Sql/obj/
 Web/obj/
+Web/wwwroot/js/
+MigrationRunner/bin/
+MIgrations.Sql/bin/
+Test/bin/
