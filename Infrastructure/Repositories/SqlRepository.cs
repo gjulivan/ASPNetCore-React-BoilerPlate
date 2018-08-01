@@ -16,7 +16,7 @@
         {
             get
             {
-                return new SqlConnection(Config.GetConnectionString(@"HokkoDb"));
+                return new SqlConnection(Config.GetConnectionString(@"TestDb"));
             }
         }
 
