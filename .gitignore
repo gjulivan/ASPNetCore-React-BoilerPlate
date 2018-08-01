@@ -1,0 +1,8 @@
+Web/node_modules/
+Web/bin/Debug/
+Business/obj/
+Infrastructure/obj/
+Test/obj/
+MigrationRunner/obj/Debug/netcoreapp2.0/MigrationRunner.csproj.CopyComplete
+MIgrations.Sql/obj/Debug/netcoreapp2.0/Migrations.Sql.csprojAssemblyReference.cache
+.vs/
