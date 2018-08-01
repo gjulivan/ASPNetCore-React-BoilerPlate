@@ -6,3 +6,12 @@ Test/obj/
 MigrationRunner/obj/Debug/netcoreapp2.0/MigrationRunner.csproj.CopyComplete
 MIgrations.Sql/obj/Debug/netcoreapp2.0/Migrations.Sql.csprojAssemblyReference.cache
 .vs/
+Business/bin/
+Contracts/bin/
+Contracts/obj/
+Domain/bin/
+Domain/obj/
+Infrastructure/bin/
+MigrationRunner/obj/
+MIgrations.Sql/obj/
+Web/obj/
